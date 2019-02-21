@@ -10,8 +10,8 @@ buildscript {
 
 allprojects {
     repositories {
-        jcenter()
         maven { url 'https://maven.google.com' }
+        jcenter()
         maven { url 'https://sdk.v-play.net/maven/' }
     }
 }
