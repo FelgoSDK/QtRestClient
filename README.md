@@ -8,13 +8,13 @@ Description
 This example shows how to create apps that connect to a REST api, using Felgo.
 
 For the full guide, see here:
-https://felgo.com/cross-platform-development/access-rest-services-qt-v-play-weather-service-example-app-open-source
+https://felgo.com/cross-platform-development/access-rest-services-qt-felgo-weather-service-example-app-open-source
 
 For more information about creating Apps with Felgo, see here: https://felgo.com/apps/.
 
 Installation Instructions
 -------------------------
-This app was made with Felgo. You need the engine which is freely available on https://felgo.com/ for all desktop platforms.
+This app was made with Felgo. You need the SDK which is freely available on https://felgo.com/ for all desktop platforms.
 
 1. Go to https://felgo.com/, register, download and install the free Felgo SDK.
 2. Clone the repository.
@@ -40,8 +40,8 @@ Felgo GmbH
 Contact us
 ----------
 - Forum: https://felgo.com/developers/forums/
-- Twitter: https://www.twitter.com/felgo/
-- Facebook: https://www.facebook.com/felgo/
+- Twitter: https://www.twitter.com/FelgoSDK/
+- Facebook: https://www.facebook.com/FelgoSDK/
 - E-Mail: support@felgo.com
 
 License
